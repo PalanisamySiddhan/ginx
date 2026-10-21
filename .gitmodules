@@ -1,0 +1,6 @@
+[submodule "ginx"]
+	path = ginx
+	url = https://github.com/PalanisamySiddhan/ginx.git
+[submodule "Ginx1"]
+	path = Ginx1
+	url = https://github.com/PalanisamySiddhan/ginx.git
